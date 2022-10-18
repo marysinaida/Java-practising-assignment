@@ -45,6 +45,7 @@ if (gender == female) {
     System.out.println("Correct gender");
 }else if(gender != female){
     System.out.println("Not correct gender");
+
 }else{
     System.out.println("Kindly check the gender");
 }
